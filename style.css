@@ -31,13 +31,3 @@ main {
 img {
     max-width: 30%;
 }
-body {
-    background-color: #10463a;
-    color: white;
-    font-family: "Bai Jamjuree", sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 700px;
-    margin: 0;
-}
